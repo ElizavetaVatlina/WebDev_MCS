@@ -1,0 +1,33 @@
+@import url(reset.css);
+
+body{
+	background: black;
+	height: 1000px;
+}
+
+.outer {
+font-size: 0;
+}
+.vase1 {
+background-image: url(http://cp12.nevsepic.com.ua/83/1350320334--500--peintre-de-klgophradgyos--psykter-attique-g-figures-rouges---h-34-cm--princeton-art-museum.jpg); 	
+height: 500px;
+width: 500px;
+background-size: contain;
+background-repeat: no-repeat;
+vertical-align: top;
+font-size: 16px;
+display: inline-block;
+
+}
+
+.vase2{
+background-image: url(http://cp12.nevsepic.com.ua/83/1350320341--490--proche-du-peintre-de-klgophradgyos--amphore-attique-g-figures-rouges--0.43-m--vienne-kunsthistotisches-museum.jpg); 
+height: 500px;
+width: 500px;
+background-size: contain;
+background-repeat: no-repeat;
+display: inline-block;
+vertical-align: top;
+font-size: 16px;
+}
+
