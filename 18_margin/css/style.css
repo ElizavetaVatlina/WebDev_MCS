@@ -1,0 +1,23 @@
+@import url(reset.css);
+
+.outer{
+	width: 600px;
+	height: 500px;
+	box-sizing: content-box;
+	border: 5px solid red;
+	margin: auto;
+}
+.inner {
+	width: 100px;
+	height: 100px;
+	background-color: orange;
+	/*margin: 50px 20px 30px 40px;*/
+	/*margin: 50px 20px 30px;*/
+
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-bottom: 50px;*/
+}
+p {
+	margin: auto;
+}
