@@ -1,12 +1,14 @@
 @import url(reset.css);
 
 body{
-	background: black;
-	height: 1000px;
+background: black;
+height: 1000px;
 }
 
 .outer {
 font-size: 0;
+display: inline-block;
+vertical-align: top;
 }
 .vase1 {
 background-image: url(http://cp12.nevsepic.com.ua/83/1350320334--500--peintre-de-klgophradgyos--psykter-attique-g-figures-rouges---h-34-cm--princeton-art-museum.jpg); 	
