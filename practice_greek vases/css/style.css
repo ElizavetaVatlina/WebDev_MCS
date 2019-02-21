@@ -24,6 +24,7 @@ display: inline-block;
 
 .vase2{
 background-image: url(http://cp12.nevsepic.com.ua/83/1350320341--490--proche-du-peintre-de-klgophradgyos--amphore-attique-g-figures-rouges--0.43-m--vienne-kunsthistotisches-museum.jpg); 
+transform: rotate(90deg);
 height: 500px;
 width: 500px;
 background-size: contain;
