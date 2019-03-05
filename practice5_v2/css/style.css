@@ -11,9 +11,7 @@ body {
   	padding: 15px;
   	box-sizing: border-box;
     position: fixed;
-    width: 100%
- 
-  		
+    width: 100% 		
 }
 
 .footer {
@@ -28,52 +26,58 @@ body {
 	text-align: center;
 }
 .footerletter {
-    font-size: 35px;
+  font-size: 35px;
 	color: black;
 }
 
-.firstcolumn {
-	width: 250px;
-	border: 2px solid black;
-	box-sizing: border-box;
-    padding: 20px;
-    margin: auto;
-  	display: inline-block;
-  	font-size: 12px;
-  	vertical-align: top;
+.firstSection {
+  margin: 0 auto;
+}
+.bottomSection {
+  margin: 0 auto;
 }
 
-.secondcolumn {
+.firstColumn {
 	width: 250px;
 	border: 2px solid black;
 	box-sizing: border-box;
-    padding: 20px;
-    margin: 10px;
-  	display: inline-block;
-  	font-size: 12px;
-  	vertical-align: top;
+  display: inline-block;
+  font-size: 12px;
+  
 }
 
-.thirdcolumn {
+.secondColumn {
 	width: 250px;
 	border: 2px solid black;
 	box-sizing: border-box;
-    padding: 20px; 
-    display: inline-block;
-  	font-size: 12px;
-  	vertical-align: top;
-  	margin: 10px;
-  	margin-right: 100px: 
+  margin: 10px;
+  display: inline-block;
+  font-size: 12px;
+  
 }
-.bottomsection {
+
+.thirdColumn {
+	width: 250px;
+	border: 2px solid black;
+	box-sizing: border-box; 
+  display: inline-block;
+  font-size: 12px;
+  
+  
+}
+.bottomColumn {
   width: 350px;
   border: 2px solid black;
   box-sizing: border-box;
-    padding: 20px; 
-    font-size: 12px;
-    vertical-align: top;
-    margin: auto;
+  padding: 20px; 
+  font-size: 12px;
+  text-align: center;
+  
    
 }
 
+.information {
+width: 800px;
+padding: 20px;
+}
 
