@@ -1,0 +1,91 @@
+@import url(reset.css);
+
+
+.header {
+	background-color: grey;
+	padding: 15px;
+  	box-sizing: border-box;
+     
+}
+
+.headerInfo {
+	font-size: 45px;
+	color: black;
+	text-align: center;
+}
+.footer {
+  background-color: grey;
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+.mainInfo {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+.picture {
+
+	background-image: url(https://www.residentadvisor.net/images/features/2019/russian-scene-nii-03.jpg);
+    height: 400px;
+    width: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+.NIIInfo {
+	width: 750px;
+	border: 2px solid black;
+	margin: auto;
+	padding: 20px;
+	text-align: center;
+	font-family: 'Varela Round', sans-serif;
+	margin-bottom: 50px;
+}
+
+.threeIcons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.first {
+	background-image: url(https://i.ytimg.com/vi/lP8vaftBLVE/maxresdefault.jpg);
+	height: 200px;
+	width: 200px;
+	background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+
+.second {
+	background-image: url(https://moscowforpeople.files.wordpress.com/2013/07/f4e93b7fa76c4a21aac7ec8d5c60.jpeg?w=640);
+	height: 200px;
+	width: 200px;
+	background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+
+.third {
+    background-image: url(https://i1.sndcdn.com/artworks-000151720324-mjludx-t500x500.jpg);
+	height: 200px;
+	width: 200px;
+	background-size: contain;
+    background-repeat: no-repeat;
+    
+
+}
+
+.quote {
+	width: 350px;
+	border: 2px solid black;
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 50px; 
+	padding: 20px;
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+
+}
